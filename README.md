@@ -11,18 +11,19 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
+- osTicket
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10 for Virtual Machine</b> (22H2)
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Set up roles and permissions for agents and users.
+- Configure ticket visibility and help desk functionality.
+- Establish SLAs to define response times for tickets.
+- Enhance user experience by organizing help topics.
+- Secure the osTicket system with proper permissions and user settings.
 
 <h2>Configuration Steps</h2>
 
