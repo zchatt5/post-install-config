@@ -97,127 +97,39 @@ Gave John the "Support" Department with the Role of "View Only" and created the 
 <img width="643" height="387" alt="image" src="https://github.com/user-attachments/assets/7c00e50f-1722-49c7-a044-8a23c486a143" />
 </p>
 <p>
-Switched to the Agent Panel then navigate to Users -> Add New. Naming the user "karen" (Note: A fake email was used).
+In the Agent Panel navigate to Users -> Add New. Naming the user "karen" (Note: A fake email was used).
 </p>
 <br />
 
 ### Step 4: Configure SLA and Help Topics
 <p>
-
+<img width="953" height="656" alt="image" src="https://github.com/user-attachments/assets/8b680c49-ab08-4aab-b8c0-463d9281b55f" />
+<img width="957" height="243" alt="image" src="https://github.com/user-attachments/assets/b49c5d4f-c4fd-433a-8e08-c17fbc80ab37" />
 </p>
 <p>
+In the Admin Panel navigate to Manage -> SLA -> Add New SLA Plan. Created 3 different plans with the following:
+
+    - Sev-A (1 hour, 24/7)
+    - Sev-B (4 hours, 24/7)
+    - Sev-C (8 hours, Business Hours)
 
 </p>
 <br />
-
+<img width="946" height="653" alt="image" src="https://github.com/user-attachments/assets/17ecb1be-34f0-4b3b-b3a0-b16e8d70c522" />
+<img width="954" height="644" alt="image" src="https://github.com/user-attachments/assets/16574c4d-a3ab-48ef-b3c8-e8d98142692a" />
 <p>
+In the Admin Pnael navigate to Manage -> Help Topics -> Add New Help Topic. Added the following Topics:
 
+    - Business Critical Outage (Report a problem)
+    - Persosnal Computer Issues (Report a problem)
+    - Equipment Request (General Inquiry)
+    - Password Reset (Report a problem)
+    - Other (General Inquiry)
+
+### Step 4: End of Project
 </p>
 <p>
-
-</p>
-<br />
-
-<p>
-
-</p>
-<p>
-
-</p>
-<br />
-
-<p>
-
-</p>
-<p>
-
+Thats the end of the initial setup of osTicket. Setup a team, department, agents, users who can imagine sending/recieving tickets. With the implementation of access control from roles, departments, teams, SLAs, and help topics, the help desk is configured for efficient ticket management and efficent workflow for the support team and customers. Enjoy practicing/working tickets in osTicket!
 </p>
 <br />
 
-<p>
-
-</p>
-<p>
-
-</p>
-<br />
-
-<p>
-
-</p>
-<p>
-
-</p>
-<br />
-
-<p>
-
-</p>
-<p>
-
-</p>
-<br />
-
-<p>
-
-</p>
-<p>
-
-</p>
-<br />
-
-<p>
-
-</p>
-<p>
-
-</p>
-<br />
-
-<p>
-
-</p>
-<p>
-
-</p>
-<br />
-
-<p>
-
-</p>
-<p>
-
-</p>
-<br />
-
-<p>
-
-</p>
-<p>
-
-</p>
-<br />
-
-<p>
-
-</p>
-<p>
-
-</p>
-<br />
-
-<p>
-
-</p>
-<p>
-
-</p>
-<br />
-
-<p>
-
-</p>
-<p>
-
-</p>
-<br />
