@@ -32,7 +32,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img width="952" height="430" alt="image" src="https://github.com/user-attachments/assets/36c19225-5c97-47b4-968a-b5c7fc7d3dfb" />
 </p>
 <p>
-Switched to Admin Panel then navigated to Agents -> Roles. Click New Role and named it "Supreme Admin" then in the permissions tab check every box for permissions/access. Create the Role.
+Switched to Admin Panel then navigated to Agents -> Roles. Click New Role and named it "Supreme Admin" then in the permissions tab check every box for permissions/access. Create the Role. This has full system control and configuration capabilities.
 </p>
 <br />
 
@@ -40,7 +40,7 @@ Switched to Admin Panel then navigated to Agents -> Roles. Click New Role and na
 <img width="956" height="930" alt="image" src="https://github.com/user-attachments/assets/9c32a801-0e47-4cf9-8a01-826d21e3364f" />
 </p>
 <p>
-In the Admin Panel navigate to Agents -> Departments -> Add New Department. Switch the Parent to "Top-Level Department" and named the department "SysAdmins". Create the Department.
+In the Admin Panel navigate to Agents -> Departments -> Add New Department. Switch the Parent to "Top-Level Department" and named the department "SysAdmins". Create the Department. Deparments are to ensure tickets are properly assisgned and accessible only to authorized agents.
 </p>
 <br />
 
@@ -48,7 +48,7 @@ In the Admin Panel navigate to Agents -> Departments -> Add New Department. Swit
 <img width="953" height="679" alt="image" src="https://github.com/user-attachments/assets/f17c1fd4-02d1-4321-a07e-41ea24febf56" />
 </p>
 <p>
-In the Admin Panel navigate to Agents -> Teams -> Add New Team. Named it "Online Banking" then create the team.
+In the Admin Panel navigate to Agents -> Teams -> Add New Team. Named it "Online Banking" then create the team. Teams are to support ticket escalation and coordinate issues.
 </p>
 <br />
 
@@ -73,7 +73,7 @@ In the Admin Panel navigate to Agents -> Add New Agent. Created an agent called 
     - Password: Password1
 
 Gave Jane the "SysAdmin" Department with the Role of "Supreme Admin" so that agent can have access to everything. Added Jane to the "Online Banking" Team as well. 
-    
+  
 </p>
 <br />
 
@@ -89,6 +89,8 @@ In the Admin Panel navigate to Agents -> Add New Agent. Created an agent called 
     - Password: Password1
 
 Gave John the "Support" Department with the Role of "View Only" and created the agent.
+
+Agent roles and departmental access to align with the defined ticket visibility and workflow structure.
 </p>
 <br />
 
@@ -98,6 +100,8 @@ Gave John the "Support" Department with the Role of "View Only" and created the 
 </p>
 <p>
 In the Agent Panel navigate to Users -> Add New. Naming the user "karen" (Note: A fake email was used).
+
+User profiles are created to enable ticket submission and support requests through osTicket.
 </p>
 <br />
 
@@ -113,6 +117,7 @@ In the Admin Panel navigate to Manage -> SLA -> Add New SLA Plan. Created 3 diff
     - Sev-B (4 hours, 24/7)
     - Sev-C (8 hours, Business Hours)
 
+Service Level Agreements (SLAs) help define a severity of the problem and the resolution time expected based on the ticket severity.
 </p>
 <br />
 <img width="946" height="653" alt="image" src="https://github.com/user-attachments/assets/17ecb1be-34f0-4b3b-b3a0-b16e8d70c522" />
@@ -126,6 +131,7 @@ In the Admin Pnael navigate to Manage -> Help Topics -> Add New Help Topic. Adde
     - Password Reset (Report a problem)
     - Other (General Inquiry)
 
+Help Topics help align with SLA policies and enabling structured prioitization for tickets.
 ### End of Project
 </p>
 <p>
