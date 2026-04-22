@@ -126,7 +126,7 @@ In the Admin Pnael navigate to Manage -> Help Topics -> Add New Help Topic. Adde
     - Password Reset (Report a problem)
     - Other (General Inquiry)
 
-### Step 4: End of Project
+### End of Project
 </p>
 <p>
 Thats the end of the initial setup of osTicket. Setup a team, department, agents, users who can imagine sending/recieving tickets. With the implementation of access control from roles, departments, teams, SLAs, and help topics, the help desk is configured for efficient ticket management and efficent workflow for the support team and customers. Enjoy practicing/working tickets in osTicket!
